@@ -25,3 +25,9 @@
 	<!-- <Command Path="msiexec.exe" Args="/i \\server\share\my.msi" QuietArg="/q" ChainPosition="after" Execute="install" /> -->
 
 </Configuration>
+
+
+
+
+
+check 15-03-16
